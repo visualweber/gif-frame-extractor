@@ -1,5 +1,5 @@
 {
-    "name": "sybio/gif-frame-extractor",
+    "name": "visualweber/GifFrameExtractor",
     "type": "library",
     "description": "PHP class that separates all the frames (and their duration) of an animated GIF",
     "keywords": ["gif", "animated", "frame", "separate", "duration", "time", "PHP"],
